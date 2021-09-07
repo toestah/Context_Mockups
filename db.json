@@ -1,0 +1,75 @@
+{
+  "myProjects": [
+    {
+      "name": "My First Project",
+      "template": "DD-2875",
+      "filetypes": [".pdf", ".docx", ".csv"],
+      "description": "This is the description for this project, it's a good project",
+      "users": [
+        {
+          "name": "Sarah Parker",
+          "picture": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+        },
+        {
+          "name": "John Wayne",
+          "picture": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+        },
+        {
+          "name": "Larry Kerwin",
+          "picture": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+        }
+      ],
+      "numinsights": 7,
+      "numfiles": 12,
+      "tags": ["artificial", "machine", "graph", "invoice"]
+    },
+    {
+      "name": "My Second Project",
+      "template": "General",
+      "filetypes": [".pdf", ".docx", ".csv", ".avi", ".mp4", ".mp3", ".jpg"],
+      "description": "This is the description for my second project, it's also quite a respectful project",
+      "users": [
+        {
+          "name": "Sarah Parker",
+          "picture": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+        },
+        {
+          "name": "John Wayne",
+          "picture": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+        }
+      ],
+      "numfiles": 2,
+      "numinsights": 9,
+      "tags": ["fire", "building", "shortlist"]
+    }
+  ],
+  "sharedProjects": [
+    {
+      "name": "My buddy's project",
+      "template": "DD-2875",
+      "filetypes": [".pdf", ".docx", ".jpg", ".csv"],
+      "description": "Could I get a couple bucks?",
+      "users": [
+        {
+          "name": "Sarah Parker",
+          "picture": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+        },
+        {
+          "name": "John Wayne",
+          "picture": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+        },
+        {
+          "name": "Larry Kerwin",
+          "picture": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+        },
+        {
+          "name": "Bronald Jump",
+          "picture": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+        }
+      ],
+      "numfiles": 10,
+      "numinsights": 6,
+      "tags": ["swift", "angular", "java"]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food shopping",
+      "day": "March 7th at 2:00pm",
+      "reminder": false
+    },
+    {
+      "text": "Best Task Ever",
+      "day": "October 14th at 2:30pm",
+      "reminder": true,
+      "id": "PRv_aO9"
+    }
+  ],
+  "icons": [
+    ["fab fa-adn", "Aretec Website Root", "https://aretecinc.com"],
+    ["fas fa-address-book", "Directory"],
+    [
+      "fas fa-clock",
+      "Timesheets",
+      "https://p0024cp1.neosystems.cloud/cpweb/cploginform.htm?1593465683"
+    ],
+    ["fas fa-laptop", "Assets"],
+    ["fas fa-tasks", "Tasks", "https://app.clickup.com/10567767/home"],
+    ["fas fa-sitemap", "Program Management"],
+    ["fas fa-inbox", "Message Inbox"],
+    ["fas fa-handshake", "Opportunities"],
+    [
+      "fas fa-video",
+      "Conference Room 1",
+      "https://us02web.zoom.us/j/89582735431?pwd=c21WNHluQUxLRG9MQ0hBSnlZVGJmZz09",
+      "#2D8CFF"
+    ],
+    [
+      "fas fa-video",
+      "Conference Room 2",
+      "https://us02web.zoom.us/j/83677175301?pwd=NC84TW0xQTVkK0REckhHUXNTbk8zQT09",
+      "#2D8CFF"
+    ],
+    [
+      "fas fa-video",
+      "Conference Room 3",
+      "https://us02web.zoom.us/j/89183921222?pwd=OGZiUVNyZ0MzblRWbW55aE4zTlU4dz09",
+      "#2D8CFF"
+    ],
+    [
+      "fas fa-layer-group",
+      "Context Application",
+      "https://context-2my7afm7yq-ue.a.run.app"
+    ],
+    ["fas fa-layer-group", "Context Website", "https://contextapp.ai"]
+  ]
+}
